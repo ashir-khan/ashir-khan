@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ashir-khan
 - 👀 I’m interested in Footbal
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Flutter front-end side
-- 📫 How to reach me not yet
+- 🌱 I’m currently working in Flutter
+- 💞️ I love making unique projects for clients
+- 📫 Reach me at: shirskhan@gmail.com
 
 <!---
 ashir-khan/ashir-khan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
